@@ -1,0 +1,16 @@
+# Java
+*.class
+bin/
+out/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.env.*
